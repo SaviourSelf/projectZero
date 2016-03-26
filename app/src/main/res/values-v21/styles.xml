@@ -1,0 +1,23 @@
+<resources>>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+
+    <style name="ButtonStyle">
+        <item name="android:textColor">#151111</item>
+        <item name="android:background">#ea7f2f</item>
+        <item name="android:layout_width">80.0px</item>
+        <item name="android:layout_height">40.0px</item>
+        <item name="android:minWidth">220dp</item>
+        <item name="android:layout_marginBottom">10dp</item>
+    </style>
+
+    <style name="CapstoneButtonStyle" parent="ButtonStyle">
+        <item name="android:background">#ed3a46</item>
+    </style>
+
+</resources>
