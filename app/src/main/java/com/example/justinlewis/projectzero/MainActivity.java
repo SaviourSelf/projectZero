@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
                 message = "this is my fourth project";
                 break;
             case R.id.capstoneButton:
-                message = "this is my capstone project";
+                message = "this is my capstone project!";
                 break;
             default:
                 message = "Not quite sure what you clicked there.";
